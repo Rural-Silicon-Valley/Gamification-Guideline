@@ -85,30 +85,7 @@ Gamification（游戏化）= **不是做游戏**，而是把“让人停不下�
 ## 🎮 Gamification 游戏化机制流程图
 
 
-```mermaid
-graph TD
-  A[明确目标]
-  B[任务系统]
-  C[即时反馈]
-  D[等级与经验]
-  E[成就徽章]
-  F[连续打卡]
-  G[排行榜与挑战]
-  H[用户成长与动机]
-  I[AI支持]
-
-  A --> B
-  B --> C
-  C --> D
-  D --> E
-  E --> F
-  F --> G
-  G --> H
-
-  A --> I
-  C --> I
-  H --> I
-  I --> B
+[👉 查看 Gamification Mermaid 流程图](https://mermaid.live/edit#pako:eNpFj0FqAjEQRe_StTN5IYkG1JRUWla1M0U5CjsgoFNgIu3vQFbL6tvQtXLbmXvOeXPvOgDhUeKxVmGnk8yEAI0z3HJjI5Y1hZqEZcxLvwCOmJ1zBJ6n07SVEDNyWZYi9iqKVIAERg-n2gRYLO2RWscqBlsP60uJ-uB7RXbMY3SgOrCK0ak_mBbf7lxLbhzXvGgu0F-c)
 
 ---
 
